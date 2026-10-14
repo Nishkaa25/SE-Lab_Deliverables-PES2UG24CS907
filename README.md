@@ -38,8 +38,7 @@ https://github.com/Nishkaa25/59_rock_paper_scissor
 ## Lab 5 Repository
 https://github.com/Nishkaa25/L5_60_hostel-room-allocation
 
-## Lab 5 Static Analysis Results
-
+Lab 5 Static Analysis Results :
 - Pylint: 10.00/10
 - Bandit: 0 issues
 - Flake8: 0 issues
