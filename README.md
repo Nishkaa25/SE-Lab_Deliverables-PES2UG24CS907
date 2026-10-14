@@ -15,6 +15,23 @@
 | 4 | Vibe Coding - Rock Paper Scissors | Pygame source code, before/after videos and chat history |
 | 5 | Static Code Analysis | Corrected Python code, issue documentation, reflection and Pylint/Bandit/Flake8 reports |
 
+## Lab 2 - Agile Project Management with Jira
+
+**Project:** Community Lost & Found Matching Network
+
+**Jira Board:**
+https://nishkaav.atlassian.net/jira/software/c/projects/CLFMN/boards/35/backlog
+
+Deliverables:
+- Epics and User Stories
+- Product Backlog
+- Sprint Planning and Story Points
+- Sprint Board
+- Burndown Charts
+- Reflection Questions
+
+Screenshots and documentation are available in `Lab_02_Jira_Agile/`.
+
 ## Lab 4 Repository
 https://github.com/Nishkaa25/59_rock_paper_scissor
 
