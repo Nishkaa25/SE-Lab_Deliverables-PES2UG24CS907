@@ -44,4 +44,3 @@ https://github.com/Nishkaa25/L5_60_hostel-room-allocation
 - Bandit: 0 issues
 - Flake8: 0 issues
 
-All five labs are organized in separate folders for faculty review.
