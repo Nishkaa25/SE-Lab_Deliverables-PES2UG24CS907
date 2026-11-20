@@ -14,6 +14,8 @@
 | 3 | Software Architecture | Microservices architecture justification and UML component diagram |
 | 4 | Vibe Coding - Rock Paper Scissors | Pygame source code, before/after videos and chat history |
 | 5 | Static Code Analysis | Corrected Python code, issue documentation, reflection and Pylint/Bandit/Flake8 reports |
+| 6 | Branch Coverage Testing - Phone Repair Quote | Phone repair quote application, test cases, branch coverage analysis and coverage reports |
+| 7 | Fuzz Testing for Input Validation Bugs | Hypothesis-based fuzz tests, corrected Python parser, test results and lab report |
 
 ## Lab 2 - Agile Project Management with Jira
 
